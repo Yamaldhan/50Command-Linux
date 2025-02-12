@@ -1,0 +1,2 @@
+# 50Command-Linux
+preview
